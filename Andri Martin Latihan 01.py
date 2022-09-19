@@ -1,0 +1,10 @@
+#Andri Martin - 064002200010
+print("Nama Kamu Siapa?")
+x = input()
+print("Hallo selamat siang," + x)
+print("Darimana asal kamu Andri?")
+y = input()
+print("Wah dari," + y)
+print("Sebelumnya bersekolah dimana?")
+z = input()
+print("Pasti menyenangkan bersekolah di," + z )
